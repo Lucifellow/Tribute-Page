@@ -78,6 +78,8 @@ span{
 }
 #quote{
 	text-align:center;
+	white-space:pre-wrap;
+	margin-right:8vw;
 	
 }
 
@@ -89,7 +91,8 @@ h2{
 
 #tribute-info{
 	text-align:center;
-	
+	margin-right:16vw;
+	margin-left:16vw;
 	
 }
 
@@ -100,12 +103,15 @@ table, th, td{
 	padding: 5px 5px 5px 5px;
 }
 #awardsdesc{
-	padding-left:26vw;
+	margin-left:25vw;
 	padding-top:2vh;
 	text-align:center-left;
 }
 #referdesc{
+
 	text-align:center;
+	margin-left:22vw;
+	margin-right:20vw;
 }
 #tribute-link{
 	color:blue;
